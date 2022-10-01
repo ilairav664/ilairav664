@@ -9,7 +9,6 @@ I am a Full Stack Developer
 <div align="left">
 <img src = "https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width=334 height=200/>
 <img src = "https://media.giphy.com/media/c4u2gld3Or69i/giphy.gif" width=335 height=200/>
-<img src = "https://media.giphy.com/media/SWjF9zQ4CTktab8HQN/giphy.gif" width=334 height=200/>
  </div>
  
  ---
